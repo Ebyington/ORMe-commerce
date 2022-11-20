@@ -22,7 +22,7 @@ Set up your database seeds with npm run seed, then run the server with npm start
 
 ## Usage
 
-video here
+https://drive.google.com/file/d/1911L6SqZxOZN06Za2cBImDrcGYn0C2z-/view?usp=share_link
 
 ## Contributors
 
